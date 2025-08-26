@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_cs.CV_2508.18265v1_InternVL35_Advancing_Open_Source_Multimodal_Mode",
+  "project_type": "agent",
+  "completion_time": "2025-08-26T21:10:03.399005",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_cs.CV_2508.18265v1_InternVL35_Advancing_Open_Source_Multimodal_Mode"
+}
